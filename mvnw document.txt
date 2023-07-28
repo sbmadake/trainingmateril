@@ -1,0 +1,16 @@
+Maven Wrapper Files
+
+mvnw allows you to run a Maven Project
+
+No neet to have Maven installed or present on your path
+If current version of Maven is NOT found on your computer
+  Automatically downloads current version and runs Maven
+
+
+Two files are provided
+1] mvnw.cmd for windows
+2] mvnw.sh for linux/mac
+
+
+1] mvnw clean  compile test
+2] ./mvnw clean compile test

@@ -1,0 +1,14 @@
+*] Mongo db examples
+   1] C:\Users\Kranti\Desktop\WEB and Spring Boot\SpringBootExamples\DAY2.2\mongodbapp
+   2]C:\Users\Kranti\Desktop\WEB and Spring Boot\SpringBootExamples\DAY2.2\mongodbapp-1
+
+
+
+*] Web application
+   1] C:\Users\Kranti\Downloads\WebExample\WebExample
+
+*] RESTTemplate
+   1] C:\Users\Kranti\Desktop\WEB and Spring Boot\SpringBootExamples\DAY2.2\RestTemplate
+
+
+   
